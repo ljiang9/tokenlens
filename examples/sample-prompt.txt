@@ -1,0 +1,10 @@
+你是一位资深的 Python 工程师，擅长写干净、可维护的代码。
+
+任务：为一个待办事项 CLI 应用设计数据模型。
+
+要求：
+1. 用 dataclass 定义 Task，字段：id、title、done、tags
+2. 写一个函数，按标签过滤任务列表
+3. 给出 3 个单元测试用例
+
+请用中文回答，代码加注释。示例：task = Task(id=1, title="买牛奶", done=False, tags=["生活"])
